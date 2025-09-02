@@ -10,7 +10,7 @@ The program also calculates the average score and determines if each student pas
 
 ## How to Run
 1. Make sure Python is installed.
-2. Open terminal and navigate to the folder containing `data_siswa.py`.
+2. Open terminal and navigate to the folder containing `average_value_student.py`.
 3. Run the program:
 4. Follow the input instructions in the terminal.
 
